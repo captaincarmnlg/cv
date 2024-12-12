@@ -3,20 +3,20 @@
 ::::{ex=resume}
 
 ::: {lang=en}
-[resume](../output/en-resume.pdf)
+[resume](https://github.com/captaincarmnlg/cv/blob/master/output/en-resume.pdf)
 :::
 ::: {lang=nl}
-[kort-cv](../output/nl-resume.pdf)
+[kort-cv](https://github.com/captaincarmnlg/cv/blob/master/output/nl-resume.pdf)
 :::
 ::::
 
 ::::{ex=cv}
 
 ::: {lang=en}
-[resume](../output/en-cv.pdf)
+[resume](https://github.com/captaincarmnlg/cv/blob/master/output/en-cv.pdf)
 :::
 ::: {lang=nl}
-[cv](../output/nl-cv.pdf)
+[cv](https://github.com/captaincarmnlg/cv/blob/master/output/nl-cv.pdf)
 :::
 
 
