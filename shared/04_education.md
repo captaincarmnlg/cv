@@ -20,12 +20,20 @@ HVA, Amsterdam, The Netherlands
 : Technische Informatica, Batchelor; 1-9-2021 - Present;
 
 ::::{ex=resume}
-* Participated in 6 major projects 
 * achieved consistently high grades in programming courses.
 * Engaged in theoretical learning to explore new methodologies.
 * Volunteered for events, including a CTF challenge.
 * Served as class representative during the first year.
 * Assisted a teacher as TA course embedded systems.
+* Participated in around several group and individual projects 
+
+![fys](assets/fys.png){width=25% height=25% float=left}
+![row](assets/row.jpg){width=25% height=25% float=left}
+![AI minor](assets/Velotech.jpg){width=25% height=25% float=left}
+![IOT](assets/IOT-individual-inside.jpg){width=25% height=25% float=left}
+![IOT](assets/IOT-indvidual.png){width=25% height=25% float=left}
+![IOT](assets/IOT-group.jpg){width=25% height=25% float=left}
+
 ::::
 
 ROC Kop van Noord-holland, Schagen, The Netherlands
@@ -46,11 +54,19 @@ HVA, Amsterdam, Nederland
 : Technische Informatica, Batchelor; 1-9-2021 - Huidig;
 
 ::::{ex=resume}
-* Deelgenomen aan 6 verschillende projecten.
 * Hoge cijfers in programeer vakken
 * Vrijwillig mee gedaan aan verschillende evenementen zoals CTF en advent of code.
 * Diende als klassenvertegenwoordiger tijdens het eerste jaar.
 * leraar geassisteerd als student assistent voor embedded systemen.
+* Mee gedaan aan verschillende groep en individueele projecten
+
+![fys](assets/fys.png){width=25% height=25% float=left}
+![row](assets/row.jpg){width=25% height=25% float=left}
+![AI minor](assets/Velotech.jpg){width=25% height=25% float=left}
+![IOT](assets/IOT-individual-inside.jpg){width=25% height=25% float=left}
+![IOT](assets/IOT-indvidual.png){width=25% height=25% float=left}
+![IOT](assets/IOT-group.jpg){width=25% height=25% float=left}
+
 ::::
 
 ROC Kop van Noord-holland, Schagen, Nederland
