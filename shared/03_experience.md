@@ -36,7 +36,7 @@
 :::
 ::: {lang=nl}
 <!-- LTex: language=nl -->
-- Xamarin gebruikt om nieuwe features toetevoegen en bugs te fixen in een Android applicatie
+- Xamarin gebruikt om nieuwe features toe te voegen en bugs te fixen in een Android applicatie
 - Unit tests ontwikkeld voor kern functionaliteiten
 <!-- LTex: language=en -->
 :::
