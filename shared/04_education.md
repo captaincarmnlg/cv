@@ -23,12 +23,12 @@ HVA, Amsterdam, The Netherlands
 * Assisted a teacher as TA course embedded systems.
 * Participated in around several group and individual projects 
 
-![fys](assets/fys.png){width=25% height=25% float=left}
-![row](assets/row.jpg){width=25% height=25% float=left}
-![AI minor](assets/Velotech.jpg){width=25% height=25% float=left}
-![IOT](assets/IOT-individual-inside.jpg){width=25% height=25% float=left}
-![IOT](assets/IOT-indvidual.png){width=25% height=25% float=left}
-![IOT](assets/IOT-group.jpg){width=25% height=25% float=left}
+![fys](assets/fys.png){width=25% height=15% float=left}
+![row](assets/row.jpg){width=25% height=15% float=left}
+![AI minor](assets/Velotech.jpg){width=25% height=15% float=left}
+![IOT](assets/IOT-individual-inside.jpg){width=25% height=15% float=left}
+![IOT](assets/IOT-indvidual.png){width=25% height=15% float=left}
+![IOT](assets/IOT-group.jpg){width=25% height=15% float=left}
 
 ::::
 
@@ -60,12 +60,12 @@ HVA, Amsterdam, Nederland
 * Mee gedaan aan verschillende groep en individuele projecten
 
 <!-- LTex: language=en -->
-![fys](assets/fys.png){width=25% height=25% float=left}
-![row](assets/row.jpg){width=25% height=25% float=left}
-![AI minor](assets/Velotech.jpg){width=25% height=25% float=left}
-![IOT](assets/IOT-individual-inside.jpg){width=25% height=25% float=left}
-![IOT](assets/IOT-indvidual.png){width=25% height=25% float=left}
-![IOT](assets/IOT-group.jpg){width=25% height=25% float=left}
+![fys](assets/fys.png){width=25% height=15% float=left}
+![row](assets/row.jpg){width=25% height=15% float=left}
+![AI minor](assets/Velotech.jpg){width=25% height=15% float=left}
+![IOT](assets/IOT-individual-inside.jpg){width=25% height=15% float=left}
+![IOT](assets/IOT-indvidual.png){width=25% height=15% float=left}
+![IOT](assets/IOT-group.jpg){width=25% height=15% float=left}
 
 ::::
 
@@ -85,7 +85,3 @@ ROC Kop van Noord-Holland, Schagen, Nederland
 <!-- LTex: language=en -->
 ::::
 :::
-
-
-
-

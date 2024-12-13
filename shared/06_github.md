@@ -14,7 +14,6 @@
 :::
 
 
-
 <!-- LTex: enabled=false -->
 [ESP32-S3-Breadboard-Adapter](https://github.com/captaincarmnlg/ESP32-S3-Breadboard-Adapter)
 <!-- LTex: enabled=true -->

@@ -19,7 +19,7 @@
 :::
 ::: {lang=nl}
 <!-- LTex: language=nl -->
-- Bug fixen van door sonar gespecificeerde 'slechte' code.
+- Sonar gespecificeerde 'slechte' code corrigeren.
 - Arch Test gebruikt om de Java architectuur te testen op ontwerp regels.
 - Ontwerpen en onderzoeken van het simuleren van realistische energie verbruik data.
 <!-- LTex: language=en-->
@@ -36,7 +36,7 @@
 :::
 ::: {lang=nl}
 <!-- LTex: language=nl -->
-- Xamarin gebruikt voor het toevoegen van nieuwe features en het fixen van bugs in een Android applicatie
+- Xamarin gebruikt om nieuwe features toetevoegen en bugs te fixen in een Android applicatie
 - Unit tests ontwikkeld voor kern functionaliteiten
 <!-- LTex: language=en -->
 :::
