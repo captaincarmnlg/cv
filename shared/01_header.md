@@ -16,4 +16,7 @@ right-column:
 <!-- ::: {lang=en} -->
 <!-- ::: -->
 <!-- ::: {lang=nl} -->
+<!-- LTex: language=nl -->
+<!-- LTex: language=en -->
 <!-- ::: -->
+
