@@ -48,7 +48,7 @@ ROC Kop van Noord-holland, Schagen, The Netherlands
 <!-- LTex: language=nl -->
 HVA, Amsterdam, Nederland
 
-: Technische Informatica, Batchelor; 1-9-2021 - Huidig;
+: Technische Informatica, Batchelor; 1-9-2021 - 13-3-2026;
 
 <!-- LTex: language=en -->
 ::::{ex=resume}
