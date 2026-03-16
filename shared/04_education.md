@@ -77,7 +77,7 @@ ROC Kop van Noord-Holland, Schagen, Nederland
 <!-- LTex: language=en -->
 ::::{ex=resume}
 <!-- LTex: language=nl -->
-* Ontwikkelde een apotheekwebsite waarmee gebruikers konden inloggen, beheren en gegevenstabellen konden worden aangepast.
+* Ontwikkelde een apotheekwebsite waarmee gebruikers kunnen inloggen, beheren en gegevenstabellen aanpasen.
 * Werkte aan meerdere projecten en voerde taken uit van documentatie tot implementatie.
 * Behaalde constant hoge cijfers voor programmeren en Engels.
 * [MATWENTE](https://github.com/captaincarmnlg/MATWENTE)

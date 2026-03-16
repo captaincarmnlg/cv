@@ -1,0 +1,12 @@
+lang: nl
+left-column:
+  - 'Date of birth: 8 aug 2002' 
+  - 'Junior Developer Burgerbrug'
+  - 'Email: [nickklavercontact@gmail.com](mailto:nickklavercontact@gmail.com)'
+  - 'Tel: [(+31) 06 57008238](tel:(+31)0657008238)'
+right-column:
+  - 'GitHub: [https://github.com/captaincarmnlg](https://github.com/captaincarmnlg)'
+  # TODO: Homepage
+  # TODO: Personal Site 
+  - 'Linkedin: [https://www.linkedin.com/in/nick-klaver/](https://www.linkedin.com/in/nick-klaver/)'
+  - 'Last Updated: \today'
